@@ -1,7 +1,7 @@
 ---
-title: "Paper Title Number 1"
+title: "1. An individual-based mechanical model of cell movement in heterogeneous tissues and its coarse-grained approximation"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: (http://academicpages.github.io/files/paper1.pdf)
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2009-10-01
 venue: 'Journal 1'
